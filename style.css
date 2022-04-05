@@ -11,6 +11,7 @@ body {
   font-weight: 500;
 }
 
+/* css para todos los botones */
 .button {
   height: 54px;
   line-height: 50px;
@@ -21,7 +22,7 @@ body {
   font-weight: 500;
 }
 
-/* HEADER */
+/*++++++++++ HEADER ++++++++++*/
 .header {
   display: flex;
   flex-direction: row;
@@ -112,7 +113,7 @@ li.main-menu__item:hover {
   color: #dd6b45;
 }
 
-/* MAIN */
+/*++++++++++ MAIN ++++++++++*/
 .content {
   padding: 100px 50px;
 }
